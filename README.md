@@ -1,4 +1,5 @@
 DiscoverMyDream
+
 The transition from 12th to college is a big step in any person’s life. During the stressful days between the results and available universities/colleges, DiscoverMyDream helps in accommodating the immense pressure and stress during these days to help people predict the outcome that they’ll probably face.
 DiscoverMyDream provides a simple basic UI for a student in order to make the candidate comfortable in his/her personal choices.
 
